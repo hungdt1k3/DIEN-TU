@@ -1,6 +1,8 @@
 #include "main.h"
 #include "stm32l0xx_hal.h"
 #include "lcd_4bit.h"
+
+// test
 extern uint16_t nhiet_do1,nhiet_do2;
 void hien_thi(void)
 {
